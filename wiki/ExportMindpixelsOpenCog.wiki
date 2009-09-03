@@ -1,4 +1,5 @@
 #summary How to export mindpixels to OpenCog
+#labels opencog
 
 OpenCog currently uses the Scheme language as the recommended way of entering data into the system.  To create a Scheme formatted text file suitable for this purpose the *mpexport* utility can be used.
 
