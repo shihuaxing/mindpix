@@ -13,13 +13,11 @@ Run MySQL
     mysql -u root -p [enter password]
 }}}
 
-or alternatively
+entering the root MySQL password which was given during installation.  Or alternatively
 
 {{{
     sudo mysql
 }}}
-
-entering the root MySQL password which was given during installation.
 
 Now enter
 
