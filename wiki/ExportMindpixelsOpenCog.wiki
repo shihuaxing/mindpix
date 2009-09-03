@@ -7,4 +7,4 @@
     mpexport.exe -mindpixels /usr/bin/mindpixels.txt -oc scheme.txt
 }}}
 
-This reads in the mindpixels contained within a text file, such as GAC-80K, parses them, then saves them as predicates to a file called scheme.txt in a format which OpenCog can recognise.
+This reads in the mindpixels contained within a text file, such as GAC-80K, parses them, then saves them as predicates to a file called scheme.txt in a format which [http://www.opencog.org/wiki/The_Open_Cognition_Project OpenCog] can recognise.
