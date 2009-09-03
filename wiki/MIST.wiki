@@ -1,0 +1,33 @@
+#summary How to perform the Minimum Intelligent Signal Test (MIST)
+#labels mindpixel,MIST,intelligence,ai,intelligencetest
+
+The [http://en.wikipedia.org/wiki/Minimum_Intelligent_Signal_Test Minimum Intelligent Signal Test] is an alternative measure of intelligence to that proposed by Turing, operating under more restricted conditions and giving some indication of how similar the answers given by an AI system are to that of a typical human.
+
+Before commencing a MIST you must first have [HowToCreateMySQLDatabase created a MySQL mindpixel database], and [ImportingGACIntoMySQL imported GAC-80K] or another mindpixel data set into it.
+
+To create a MIST use the _mpmist_ utility:
+
+{{{
+    mpmist.exe -create MIST.txt -samples 100
+}}}
+
+This creates a text file containing 100 questions.  This should be passed to the AI system being tested, which should then append a yes or no response to the end of each row, with a space character separating the original question from the response.
+
+For example:
+
+{{{
+    are women the fairer sex? no
+    Do cats eat mice? yes
+    Do salmon swim upstream to spawn? yes
+    Are the means justified by their ends? no
+}}}
+
+The test can then be evaluated like this:
+
+{{{
+    mpmist.exe -answers MIST.txt
+}}}
+
+The system will provide an indication of whether each response passed or failed, with an overall MIST rating being given as a percentage.  The higher the percentage value the closer the system is judged to be to human-like response characteristics.
+
+It is assumed that the AI system under test is a _general intelligence_ which *does not have direct access* to the mindpixel data and has instead acquired its knowledge in some other manner.
