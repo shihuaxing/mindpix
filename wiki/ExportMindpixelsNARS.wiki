@@ -1,4 +1,5 @@
 #summary How to export mindpixels to NARS
+#labels nars
 
 Mindpixels can be exported in a format suitable for reading into [http://nars.wang.googlepages.com/ NARS] as follows:
 
