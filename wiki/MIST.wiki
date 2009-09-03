@@ -1,7 +1,7 @@
 #summary How to perform the Minimum Intelligent Signal Test (MIST)
 #labels mindpixel,MIST,intelligence,ai,intelligencetest
 
-The [http://en.wikipedia.org/wiki/Minimum_Intelligent_Signal_Test Minimum Intelligent Signal Test] is an alternative measure of intelligence to that proposed by Turing, operating under more restricted conditions and giving some indication of how similar the answers given by an AI system are to that of a typical human.
+The [http://en.wikipedia.org/wiki/Minimum_Intelligent_Signal_Test Minimum Intelligent Signal Test] is an alternative measure of intelligence to that proposed by Turing, operating under more restricted conditions and giving some indication of how similar the answers given by an AI system are to that of a typical human.  To perform better than chance on this test the AI must both understand the proposition and provide a human-like reply.
 
 Before commencing a MIST you must first have [HowToCreateMySQLDatabase created a MySQL mindpixel database], and [ImportingGACIntoMySQL imported GAC-80K] or another mindpixel data set into it.
 
