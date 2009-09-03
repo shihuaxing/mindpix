@@ -1,4 +1,5 @@
 #summary How to export mindpixels in POP format
+#labels pop-11
 
 Mindpixels may be exported in a format suiable for use with the [http://en.wikipedia.org/wiki/POP-11 POP-11 language].  This is an old skool logic system which doesn't have probabilistic weightings, so only mindpixels with >= 0.5 coherence values are exported.
 
