@@ -1,0 +1,7 @@
+#summary How to import GAC-80K or other mindpixel text files into the database
+
+To import a text file containing mindpixels, use the mpcreate utility as follows:
+
+{{{
+    mpcreate.exe -load /usr/bin/mindpixels.txt
+}}}
