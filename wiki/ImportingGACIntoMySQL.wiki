@@ -1,5 +1,7 @@
 #summary How to import GAC-80K or other mindpixel text files into the database
 
+In order to initially create the database tables you may initially need to [AddMindpixels add a test mindpixel], then [HowToCreateMySQLDatabase empty the tables].
+
 To import a text file containing mindpixels, use the mpcreate utility as follows:
 
 {{{
