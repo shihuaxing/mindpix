@@ -69,3 +69,10 @@ To show table structure
 {{{
     mysql> show columns from mindpixels;
 }}}
+
+To empty tables prior to importing GAC-80K
+
+{{{
+    mysql> DELETE FROM mindpixels;
+    mysql> DELETE FROM users;
+}}}
