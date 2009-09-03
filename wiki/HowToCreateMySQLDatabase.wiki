@@ -22,20 +22,20 @@ entering the root MySQL password which was given during installation.  Or altern
 Now enter
 
 {{{
-mysql> create database mindpixel;
+    mysql> create database mindpixel;
 }}}
 
 to create a database called mindpixel.  The utilities assume that the database will have this name.  Now create a default user.
 
 {{{
-mysql> grant usage on *.* to testuser@localhost identified by 'password';
-mysql> grant all privileges on mindpixel.* to testuser@localhost;
+    mysql> grant usage on *.* to testuser@localhost identified by 'password';
+    mysql> grant all privileges on mindpixel.* to testuser@localhost;
 }}}
 
 And exit from MySQL
 
 {{{
-mysql> exit
+    mysql> exit
 }}}
 
 Now to check user was created
