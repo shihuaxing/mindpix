@@ -1,7 +1,7 @@
 #summary Yes, no, yes, no, yes, no....what's the point?
 #labels mindpixel
 
-== As a workaround for NLP ==
+== As a workaround for the limitations of NLP ==
 
 Getting computers to understand ordinary written languages is a notoriously hard and still largely unsolved problem in artificial intelligence, known as Natural Language Processing (NLP).  So there's a gap between the sorts of things which most humans can describe and the very formalised languages which computers can understand.
 
