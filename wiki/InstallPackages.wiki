@@ -7,4 +7,5 @@ Double click on the *deb* or *rpm* packages to install them, or within a termina
 {{{
     sudo dpkg -i mpexport.deb
     sudo dpkg -i mpcreate.deb
+    sudo dpkg -i mpmist.deb
 }}}
