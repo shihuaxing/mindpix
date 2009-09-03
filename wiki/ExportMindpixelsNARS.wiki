@@ -1,0 +1,9 @@
+#summary How to export mindpixels to NARS
+
+Mindpixels can be exported in a format suitable for reading into [http://nars.wang.googlepages.com/ NARS] as follows:
+
+{{{
+    mpexport.exe -mindpixels /usr/bin/minpixels.txt -nars nars.txt
+}}}
+
+This takes mindpixels stored within a text file, parses them, then saves them to a file called nars.txt.
