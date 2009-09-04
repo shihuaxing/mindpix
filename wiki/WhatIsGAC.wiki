@@ -1,6 +1,6 @@
-#summary What is GAC-80K
+#summary What is GAC-80K?
 
-GAC-80K is a set of 80,000 propositions in plain english stored within a text file.  It was originally released in 2005 as a subset of the mindpixel data gathered betwenen 2000-2005.
+GAC-80K is a set of 80,000 propositions in plain english stored within a text file.  It was originally released in 2005 as a subset of the mindpixel data gathered betwenen 2000-2005.  The term "GAC" stands for _General Artificial Consciousness_.
 
 The terms of use for GAC-80K specify that the data is only to be used for research or non-commercial uses, but since the original mindpixel project no longer exists this probably doesn't apply to contemporary users, unless some new ownership claim is forthcoming.
 
