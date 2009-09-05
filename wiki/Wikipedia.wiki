@@ -1,7 +1,7 @@
 #summary Can't I obtain ontologies validated by multiple users from Wikipedia?
 #labels wikipedia
 
-Yes, and indeed the mindpixels.txt file does contain some information mined from Wikipedia.  However, Wikipedia only contains half of the world's knowledge.  It contains information about what most humans believe to be true (or somewhat true), but it doesn't contain information about what the average person believes to be false.  If anyone were to make such entries on Wikipedia they would quickly be removed.  The original Mindpixel project explicitly attempted to capture information about what people belive to be false, such as:
+Yes, and indeed the _mindpixels.txt_ file does contain some information mined from Wikipedia.  However, Wikipedia only contains half of the world's knowledge.  It contains information about what most humans believe to be true (or somewhat true), but it doesn't contain information about what the average person believes to be false.  If anyone were to make such entries on Wikipedia they would quickly be removed.  The original Mindpixel project explicitly attempted to capture information about what people belive to be false, such as:
 
 {{{
     Are chairs edible?
