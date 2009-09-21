@@ -20,6 +20,7 @@ For example:
     Do cats eat mice? yes
     Do salmon swim upstream to spawn? yes
     Are the means justified by their ends? no
+    Does buying a beer cause getting drunk? yes
 }}}
 
 The test can then be evaluated like this:
