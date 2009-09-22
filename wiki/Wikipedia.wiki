@@ -11,6 +11,6 @@ Yes, and indeed the _mindpixels.txt_ file does contain some information mined fr
 
 As various AI researchers have pointed out in the past, knowing what probably isn't true about the world is just as important as knowing what is.
 
-= Encyclopedias don't cover everything =
+*Encyclopedias don't cover everything*
 
 The other problem is that encyclopedias only contain certain kinds of knowledge - what might commonly be refered to as "book smarts".  What encyclopedias don't contain is the very common things which we all know and take for granted, such as that cups are often found on tables and that the sky is always above the ground.  This knowledge comes from our shared embodied experience of the world, and it is at least in principle possible that such information could be acquired by a "child machine" inhabiting a simulated or robotic body.
