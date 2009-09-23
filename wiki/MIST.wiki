@@ -11,7 +11,11 @@ To create a MIST use the _mpmist_ utility:
     mpmist.exe -create MIST.txt -samples 100
 }}}
 
-This creates a text file containing 100 questions.  This should be passed to the AI system being tested, which should then append a yes or no response to the end of each row, with a space character separating the original question from the response.
+This creates a text file containing 100 questions.  
+
+Questions are selected in such a way that there is an equal chance of true and false propositions appearing within the test.  This avoids a situation where the system under test might have foreknowledge of the ratio of true and false propositions within the database (or generally), and be able to obtain a better score by biasing its choices accordingly.
+
+The file should be passed to the AI system being tested, which should then append a yes or no response to the end of each row, with a space character separating the original question from the response.
 
 For example:
 
