@@ -3,7 +3,7 @@
 First ensure that mindpixels have been [ImportingGACIntoMySQL imported into a MySql database], then use the command:
 
 {{{
-    mpcreate -map myimage.jpg
+    mpcreate.exe -map myimage.jpg
 }}}
 
 Calculation of the map may take some time, depending upon the number of mindpixels loaded into the database.
