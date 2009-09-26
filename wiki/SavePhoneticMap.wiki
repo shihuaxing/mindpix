@@ -1,6 +1,6 @@
 #summary How to save a map of Mindpixels plotted in phonetic space
 
-First ensure that mindpixels have been imported into a MySql database, then use the command:
+First ensure that mindpixels have been [ImportingGACIntoMySQL imported into a MySql database], then use the command:
 
 {{{
     mpcreate -map myimage.jpg
