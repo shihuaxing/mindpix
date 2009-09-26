@@ -1,0 +1,8 @@
+To compute the soundex index:
+
+  # Remove common words from the mindpixel, such as "a", "the", "is", etc
+  # Calculate a four character soundex value for each word
+  # Sort the soundex values alphabetically, then concatenate them into a single string.
+  # Compute a hash value for the string.
+  # Sort all mindpixels by the hash value.
+  # The soundex index is then the record number in the sorted table.  This can be used to plot the mindpixel as a point along an axis.
