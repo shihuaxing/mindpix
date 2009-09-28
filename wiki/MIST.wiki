@@ -3,6 +3,24 @@
 
 The [http://en.wikipedia.org/wiki/Minimum_Intelligent_Signal_Test Minimum Intelligent Signal Test] is an alternative measure of intelligence to that proposed by Turing, operating under more restricted conditions and giving some indication of how similar the answers given by an AI system are to that of a typical human.  To perform better than chance on this test the AI must both understand the proposition and provide a statistically human-like reply.
 
+
+*_"In behavioral research (consciouness is communicated through behaviour)
+the significance level (alpha) is commonly .05 or %5. that means to be
+[http://en.wikipedia.org/wiki/Statistically_significant considered significant], a result must be 5% different than the null
+hypothesis. as well the sample must large enough to allow for a normal
+distribution as per the [http://en.wikipedia.org/wiki/Central_limit_theorem central limit theorem]._*
+
+*_A MIST test of 100 items can detect consciousness within accepted
+statistical parameters. any system, conscious or otherwise has a 1 in 2
+to the 100th chance of guessing all the items correctly (that's a very
+large number) and only a truely conscious system would be able to
+respond 100% correctly, even once. a system that got 54 out of 100
+correct would force us to accept the [http://en.wikipedia.org/wiki/Null_hypothesis null hypothesis] (that the system is
+random) as it is within 5% of random. a system that got 55 out of 100
+would be considered minimally consciousness (it has the minimum
+statistically significant score). any improvement over 55 would indicate
+an increase in consciousness."_*
+
 Before commencing a MIST you must first have [HowToCreateMySQLDatabase created a MySQL mindpixel database], and [ImportingGACIntoMySQL imported GAC-80K] or another mindpixel data set into it.
 
 To create a MIST use the _mpmist_ utility:
