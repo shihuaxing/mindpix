@@ -11,7 +11,7 @@ hypothesis. as well the sample must large enough to allow for a normal
 distribution as per the [http://en.wikipedia.org/wiki/Central_limit_theorem central limit theorem]._*
 
 *_A MIST test of 100 items can detect consciousness within accepted
-statistical parameters. any system, conscious or otherwise has a 1 in 2
+statistical parameters. any system, conscious or otherwise, has a 1 in 2
 to the 100th chance of guessing all the items correctly (that's a very
 large number) and only a truely conscious system would be able to
 respond 100% correctly, even once. a system that got 54 out of 100
