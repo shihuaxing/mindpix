@@ -19,7 +19,7 @@ correct would force us to accept the [http://en.wikipedia.org/wiki/Null_hypothes
 random) as it is within 5% of random. a system that got 55 out of 100
 would be considered minimally consciousness (it has the minimum
 statistically significant score). any improvement over 55 would indicate
-an increase in consciousness."_*
+an increase in consciousness." - K. Christopher McKinstry_*
 
 Before commencing a MIST you must first have [HowToCreateMySQLDatabase created a MySQL mindpixel database], and [ImportingGACIntoMySQL imported GAC-80K] or another mindpixel data set into it.
 
