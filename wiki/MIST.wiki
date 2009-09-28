@@ -21,6 +21,8 @@ would be considered minimally consciousness (it has the minimum
 statistically significant score). Any improvement over 55 would indicate
 an increase in consciousness." - K. Christopher McKinstry_*
 
+Whether MIST really tests for _intelligence_ or _consciousness_ is a question open for debate by AI philosophers, and depends upon whether you believe that humans are conscious beings or not.  There is little doubt however that it is a test for _humanness_, or the degree of similarity to the typical responses of an average human.
+
 Before commencing a MIST you must first have [HowToCreateMySQLDatabase created a MySQL mindpixel database], and [ImportingGACIntoMySQL imported GAC-80K] or another mindpixel data set into it.
 
 To create a MIST use the _mpmist_ utility:
