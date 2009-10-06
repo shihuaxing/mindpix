@@ -1,0 +1,42 @@
+#summary Making decisions in the real world
+#labels cognitivedynamics
+
+Do physical movements reveal anything about higher level cognitive dynamics?  Traditional AI systems which follow the sense-interpret-plan-act pipeline assume that there are separate modules with discreet interfaces between them, such that the internal workings of one module has little to do with the internal workings of the preceding one.  However, although this approach may be convenient from a software engineering perspective it isn't really how brains work.  The brain is instead a large parallel system where multiple systems may be operating and interacting simultaneously, with the evolutionary imperitive to make a decision as soon as possible (before you get eaten).
+
+The idea of parallism, accompanied by some winner-takes-all competitive suppression when making a decision is not new.  However, the suppression between competing decision makers or behaviors may not be perfect, with some of the losers still having an lesser effect upon the overall outcome.
+
+When making a yes or no response to a proposition is your level of confidence apparent within the physical movements made when dragging a mouse over an icon?  This test is intended to demonstrate that it is.
+
+== Installation ==
+
+To install the test:
+
+{{{
+    sudo dpkg -i mpcogdyn-x.x.deb
+}}}
+
+To run from the command line:
+
+{{{
+    mpcogdyn.exe
+}}}
+
+== Performing the test ==
+
+To begin the test press the start button at the bottom of the screen.  A proposition will be randomly selected and shown at the top of the screen.  Click on the yes or no circular icons to make your decision.  If the proposition makes no sense to you, just select yes or no whichever way you like (maybe at random).  Repeat this process as many times as possible, until you're completely bored.  The more decisions you make the more statistically reliable the end results will be.
+
+If you wish to carry out the test in a more scientific way, arrange for a number of different people to take it, preferably who have no idea what the end result might be.
+
+When you're finished select "Save results" from the file menu.  A couple of images will then be saved into your current directory, which show the results.
+
+== How the test works ==
+
+Each proposition is selected at random from the GAC-80K corpus, with an equal likelihood across the coherence range.  So for example there is the same chance of a proposition with coherence value 0.2 being selected as one with a coherence of 0.6.  The path which the mouse cursor takes as it is guided towards one or the other icons is recorded, and average paths are computed for each coherence value.
+
+== Results ==
+
+If the sequential sense-interpret-plan-act hypothesis is true then after you make the yes or no decision and your brain will send a signal to your arm to move one way or the other.  You should see that the paths for yes and no responses are neatly grouped together on either side.  
+
+However, in practice this isn't what seems to happen.  Instead for the more ambiguous propositions with coherence values closer to 0.5 the mouse cursor movements tend to sway from left to right (they have higher deviation/entropy), producing average paths which are more towards the middle.  What's remarkable is that this looks like a _graded response_ rather than a discreet decision.  So even though you may have decided to answer yes a parallel no decision in your brain is still partially active and sending weaker but still measurable movement commands to your arm, or perhaps nearly equally strong yes and no decisions compete dynamically as your arm is in motion towards one or the other target.  This tends to support the notion that the brain is a parallel _society of mind_ consisting of agents who are competing to produce an output and where there is no strict sequence of activity.
+
+[http://groups.google.com/group/mindpix/web/test_results_average.jpg]
