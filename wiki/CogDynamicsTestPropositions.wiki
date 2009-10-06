@@ -40,3 +40,7 @@ If the sequential sense-interpret-plan-act hypothesis is true then after you mak
 However, in practice this isn't what seems to happen.  Instead for the more ambiguous propositions with coherence values closer to 0.5 the mouse cursor movements tend to sway from left to right (they have higher deviation/entropy), producing average paths which are more towards the middle.  What's remarkable is that this looks like a _graded response_ rather than a discreet decision.  So even though you may have decided to answer yes a parallel no decision in your brain is still partially active and sending weaker but still measurable movement commands to your arm, or perhaps nearly equally strong yes and no decisions compete dynamically as your arm is in motion towards one or the other target.  This tends to support the notion that the brain is a parallel _society of mind_ consisting of agents who are competing to produce an output and where there is no strict sequence of activity.
 
 [http://groups.google.com/group/mindpix/web/test_results_average.jpg]
+
+== References == 
+
+[http://groups.google.com/group/mindpix/web/mckinstry_dale_spivey.pdf Action Dynamics Reveal Parallel Competition in Decision Making], McKinstry, C., Dale, R., & Spivey, M.J. (2008)
