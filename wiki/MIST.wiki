@@ -53,6 +53,12 @@ The test can then be evaluated like this:
     mpmist.exe -answers MIST.txt
 }}}
 
+or alternatively if you don't wish to create the MySQL database which mpmist relies upon you can also use the mpgac utility as follows:
+
+{{{
+    mpgac.exe -mist MIST.txt
+}}}
+
 The system will provide an indication of whether each response passed or failed, with an overall MIST rating being given as a percentage.  The higher the percentage value the closer the system is judged to be to human-like response characteristics.
 
 It is assumed that the AI system under test is a _general intelligence_ which *does not have direct access* to the mindpixel data and has instead acquired its knowledge in some other manner.
