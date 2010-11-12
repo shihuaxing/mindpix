@@ -5,7 +5,7 @@ _"He who would design a good brain must first know how to make a bad one."_ - W.
 
 When scanning the skies how can we tell whether the radio signals detected are from an intelligent source, or are merely just background or sensor noise?
 
-mpgac is a program created from the GAC-80K corpus capable of answering yes or no questions.  An _unintelligent system_ within this class would only be able to answer yes or no randomly, or perhaps with some small bias towards a yes answer.  A system with minimal human-like intelligence sound be able to provide answers with a statistical profile measurably higher than chance would predict.
+mpgac is a program created from the GAC-80K corpus capable of answering yes or no questions.  An _unintelligent system_ within this class would only be able to answer yes or no randomly, or perhaps with some small bias towards a yes answer.  A system with minimal human-like intelligence should be able to provide answers with a statistical profile measurably higher than chance would predict.
 
 mpgac is a stand alone program, and doesn't require either the original text corpus or a database.  Instead it uses an image where each point represents a proposition plotted in a phonetic coordinate space.  The image could be regarded as a kind of compression of the original corpus - with the boolean nature of the propositions facilitating maximum compressibility.
 
